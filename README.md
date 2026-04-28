@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Elicruze
-- 👀 I’m interested in coding, art, creation in general tbh, reading/writing, music.
-- 🌱 I’m currently learning Swift coding, learning to utilize github and making mobile apps with Xcode. 
-- 💞️ I’m looking to collaborate on swift related stuff, if you are making a app or game and need basic stuff, I might be able to help... but alas I am but a fedgling myself right now. 
-- 📫 You can email me at elicruze@icloud.com or just send me a message.
+-  Hello, I’m @Elicruze. I’m a beginning coder in Swift and exploring the ins and outs of GitHub. I’ve always dabbled in coding, but only recently committed to becoming an app developer. I’m now setting my sights on more professional pursuits and continuing to grow my skills as a developer. 
+- My goal for this year is to complete a coding bootcamp, become more organized in my development workflow, and build a strong portfolio that showcases my skills and projects
+- I’m currently looking to collaborate on Swift-related projects. If you’re building an app or game and need help with basic features or support, I may be able to contribute. I’m still early in my development journey, but I’m eager to learn and grow through hands-on experience.
+- 📫 You can email me at Elizondo.Sabrina@icloud.com or just send me a message here.
 
 <!---
 Elicruze/Elicruze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
